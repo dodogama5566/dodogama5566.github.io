@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to DoDoGaMa5566's Pages
 
 Hello.This is test pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+哈囉. 這是測試頁面.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
