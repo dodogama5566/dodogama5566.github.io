@@ -2,7 +2,7 @@
 
 Architecture
 
-![pa](https://github.com/dodogama5566/dodogama5566.github.io/blob/main/Pacemaker.drawio.png)
+![](./Pacemaker.drawio.png)
 
 ### Markdown
 
