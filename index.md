@@ -25,7 +25,6 @@ Usage Scenario
 - iscsi-initiator-utils-6.2.0.874-22.el7_9.x86_64
 - iscsi-initiator-utils-iscsiuio-6.2.0.874-22.el7_9.x86_64
 ## Firewall
-```
 - firewall-cmd --permanent --add={**nfs,rpc-bind,mountd,high-availability**}
 - firewall-cmd --reload
 ```
