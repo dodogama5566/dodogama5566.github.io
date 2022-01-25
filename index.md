@@ -7,12 +7,23 @@ Hello.This is test pages.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```Usage Scenario
 
-# Header 1
-## Header 2
-### Header 3
+# 節點
+- 192.168.203.51    z1.example.com  z1
+- 192.168.203.52    z2.example.com  z2
+- 192.168.203.53    c1.example.com  c1
+- 192.168.203.54    d1.example.com  d1
+# 作業系統與套件
+- CentOS Linux release 7.9.2009 (Core)
+- pacemaker-1.1.23-1.el7_9.1.x86_64
+  - 
+- pcs-0.9.169-3.el7.centos.1.x86_64
+- fence-agents-all-4.2.1-41.el7_9.5.x86_64
+- iscsi-initiator-utils-6.2.0.874-22.el7_9.x86_64
+- iscsi-initiator-utils-iscsiuio-6.2.0.874-22.el7_9.x86_64
+# firewall
+- firewall-cmd --permanent --add={**nfs,rpc-bind,mountd,high availability**}
 
 - Bulleted
 - List
