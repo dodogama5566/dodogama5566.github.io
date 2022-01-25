@@ -1,6 +1,6 @@
 ## Welcome to DoDoGaMa5566's Pages
 
-Hello.This is test pages.
+Architecture
 
 哈囉. 這是測試頁面.
 ### Markdown
