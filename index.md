@@ -2,7 +2,8 @@
 
 Architecture
 
-哈囉. 這是測試頁面.
+![pa](https://github.com/dodogama5566/dodogama5566.github.io/blob/main/Pacemaker.drawio.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
