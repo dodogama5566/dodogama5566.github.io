@@ -8,7 +8,7 @@ Hello.This is test pages.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ``` 
-Usage Scenario
+<font color=#FF6600>Usage Scenario</font>
 
 ## Node
 - 192.168.203.51    z1.example.com  z1
@@ -16,7 +16,7 @@ Usage Scenario
 - 192.168.203.53    c1.example.com  c1
 - 192.168.203.54    d1.example.com  d1
 ## OS
-- CentOS Linux release 7.9.2009 (Core)
+- <font color=#0000FF>CentOS Linux release 7.9.2009 (Core)</font>
 ## Software
 - pacemaker-1.1.23-1.el7_9.1.x86_64
   - 
