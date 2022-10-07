@@ -2,7 +2,7 @@
 
 Architecture
 
-![](./Pacemaker.drawio.png)
+![](./logo-redhat-a-color-rgb_960)
 
 ### Markdown
 
